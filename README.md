@@ -61,12 +61,7 @@ Beta 1: TBA
 
 | Version | Download |
 |---------|----------|
-| Beta 1  | [Link](http://www.mediafire.com/file/1fmybx7ssbnofiu/nalu935Beta1.ipa)
-| Beta 2  | [Link](http://www.mediafire.com/file/88eh666887i4ero/nalu935Beta2.ipa)
-| Beta 3  | [Link](http://www.mediafire.com/file/yj8yqdn7ftpcl9s/nalu935Beta3.ipa)
-| Beta 4  | [Link](http://www.mediafire.com/file/32mna3w8aa89g5y/nalu935Beta4.ipa)
-| Beta 5  | TBA      |
-
+| Beta 1  | TBA      |
 
 ## Contributing
 
